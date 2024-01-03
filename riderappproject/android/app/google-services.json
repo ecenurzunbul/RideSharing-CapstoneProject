@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455437424780",
+    "project_id": "flutter-ride-sharing-ce1cd",
+    "storage_bucket": "flutter-ride-sharing-ce1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455437424780:android:cb47a51113b441d87bc3a9",
+        "android_client_info": {
+          "package_name": "com.example.test_aappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455437424780-hli93oa0hc47e0v7r85s45cfflv0ntr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rDdBGDW8J3930py5Fc1ToJhB4cZPYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455437424780-hli93oa0hc47e0v7r85s45cfflv0ntr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
